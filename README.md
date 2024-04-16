@@ -8,6 +8,6 @@ Bird strikes represent a complex and multifaceted challenge for the aviation ind
 + To analyse the cost of these bird strikes
 + To analyse the effect of bird strikes with different factors
 
-For the results and insights refer 
+For the results and insights refer [Data Visualisation of Birdstrikes](https://github.com/Sanjit-Cyrus-R/Data-Visualization-of-Bird-strikes/blob/main/Data%20Visualization%20of%20Bird%20Strikes.pptx)
 
 
